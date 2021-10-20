@@ -66,3 +66,28 @@ img.perfil {
     border: 2px solid var(--borda-clara);
     padding: 30px;
 }
+
+.container {
+    text-align: center;
+    padding: 40px;
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px;
+    
+}
+
+.child {
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    border:1px solid black;
+}
+
+.text-white {
+    padding: 40px;
+}
